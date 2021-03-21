@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft Plugin and Game development
 - 🌱 I’m currently learning Java, C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Twitter: SnowMAviD, Instagram: snowmavid_official
+- 📫 Reach me Twitter: SnowMAviD, Instagram: snowmavid_official
 
 <!---
 SnowMAviD/SnowMAviD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
