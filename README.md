@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SnowMAviD
 - 👀 I’m interested in FiveM mod Development
 - 🌱 I’m currently learning LUA (FiveM)
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me Twitter: SnowMAviD, Instagram: snowmavid_official
 
 <!---
