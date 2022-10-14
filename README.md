@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SnowMAviD
-- 👀 I’m interested in FiveM mod Development
-- 🌱 I’m currently learning LUA (FiveM)
-- 📫 Reach me Twitter: SnowMAviD, Instagram: snowmavid_official
+- 👀 I’m interested in Minecraft Plugin Development
 
 <!---
 SnowMAviD/SnowMAviD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
